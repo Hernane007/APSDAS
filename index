@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>APS WEB GREEN</title>
+
+  <!-- slider stylesheet -->
+  <!-- slider stylesheet -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Web Green
+            </span>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+              <ul class="navbar-nav  ">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item ">
+                  <a class="nav-link" href="cocacola.html"> Case Coca-Cola </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="movida.html"> Case Movida </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="grupobimbo.html"> Case Grupo Bimbo</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class=" slider_section position-relative">
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container">
+              <div class="box">
+                <div class="row">
+                  <div class="col-md-7">
+                    <div class="detail-box">
+                      <div>
+                        <h1>
+                          Coca-Cola
+                        </h1>
+                        <h2>
+                          İçecek diminui o uso de recursos ambientais com a utilização da nuvem!
+                        </h2>
+                        <div class="">
+                          <a href="cocacola.html">
+                            Saiba mais!
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-5">
+                    <div class="img-box">
+                      <img src="images/logococa.jpg" alt="" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="box">
+                <div class="row">
+                  <div class="col-md-7">
+                    <div class="detail-box">
+                      <div>
+                        <h1>
+                          Movida
+                        </h1>
+                        <h2>
+                          Movida reduz emissão de carbono com a utilização da nuvem!
+                        </h2>
+                        <div class="col-md-5">
+                          <a href="movida.html">
+                            Saiba mais!
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-5">
+                    <div class="img-box">
+                      <img src="images/LogoMovida.Jpg" alt="" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="box">
+                <div class="row">
+                  <div class="col-md-7">
+                    <div class="detail-box">
+                      <div>
+                        <h1>
+                          Grupo Bimbo
+                        </h1>
+                        <h2>
+                          Grupo Bimbo está usando o Microsoft Cloud for Sustainability para tornar as rotinas sutentáveis!
+                        </h2>
+                        <div class="col-md-5">
+                          <a href="grupobimbo.html">
+                            Saiba mais!
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-5">
+                    <div class="img-box">
+                      <img src="images/logo-bimbo.jpeg" alt="" width="16px"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </ol>  
+      </div>    
+    </section>
+    <!-- end slider section -->
+  </div>
+
+  <!-- how section -->
+  <section class="how_section layout_padding">
+    <div class="heading_container">
+      <h2>
+        Metodologias Utilizadas 
+      </h2>
+    </div>
+    <div class="how_container">
+      <div class="box">
+        <div class="img-box">
+		  <img src="images/LogoHtml.png" alt="" />
+        </div>
+        <div class="detail-box">
+          <h5>
+            HTML 5
+          </h5>
+          <p>
+            O HTML é uma linguagem de marcação (HyperText Markup Language) uma das linguagens fundamentais para o desenvolvimento de páginas web.
+          </p>
+        </div>
+      </div>
+      <div class="box">
+        <div class="img-box">
+		  <img src="images/LogoCss.png" alt="" />
+        </div>
+        <div class="detail-box">
+          <h5>
+            CSS
+
+          </h5>
+          <p>
+            A linguagem de programação CSS (Cascading Style Sheets) é utilizada para a criação de páginas web e estilizar o layout e a aparência das páginas.
+          </p>
+        </div>
+      </div>
+      <div class="box">
+        <div class="img-box">
+		   <img src="images/LogoJs.png" alt="" />
+        </div>
+        <div class="detail-box">
+          <h5>
+            Java Script
+          </h5>
+          <p>
+            JavaScript é uma linguagem de programação utilizada no desenvolvimento web permitindo a criação de páginas dinâmicas e interativas, 
+			possibilita a manipulação de elementos HTML e CSS em tempo real, Com JavaScript, é possível criar efeitos visuais, animações.
+		</p>
+        </div>
+      </div>
+      <div class="box">
+        <div class="img-box">
+		  <img src="images/LogoPa.png" alt="" />
+        </div>
+        <div class="detail-box">
+          <h5>
+            Pesquisas Academicas
+          </h5>
+          <p>
+            Pesquisas e revisões bibliográficas sobre o desenvolvimento web, especificamente temas relacionados a Web services, 
+			ISO 14001 e empresas com foco em cloud e sustentabilidade.
+          </p>
+        </div>
+      </div>
+    </div>
+     <!--<div class="btn-box">
+      <a href="">
+        Read More
+      </a>
+    </div> -->
+  </section>
+  <!-- end how section -->
+
+  <!-- about section -->
+
+  <section class="about_section layout_padding-bottom">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          ISO 14001
+        </h2>
+      </div>
+      <div class="box">
+        <div class="img-box">
+          <img src="images/LogoIso.png" alt="">
+        </div>
+        <div class="detail-box">
+		<p></p>
+          <p align="justify">
+            O conceito chamado Desenvolvimento Sustentável de Software é um estilo de desenvolvimento de sistemas digitais 
+			onde é priorizado o reuso de código fonte, assim removendo o retrabalho. De fato, proteção ambiental, o desenvolvimento sustentável, 
+			a redução de emissões, e a energia verde são atualmente a prioridade em muitos dos países.			
+			Diante dessas exigencias globais direcionadas ao mundo tecnológico, surgiu a ISO 14001, 
+			uma norma que serve como um guia para implementação e manutenção de um sistema de gestão ambiental, basenado-se no ciclo PDCA.
+          </p>
+          <div class="btn-box">
+            <a href="https://www.iso.org/home.html" target="_blank" rel="external">
+              Saiba Mais
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end about section -->
+
+
+
+  <!-- info section -->
+  <section class="info_section layout_padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="info_contact">
+            <div class="info_logo">
+              <a href="index.html">
+                <span>
+                  WEB Green
+                </span>
+              </a>
+            </div>
+            <h5>
+              Contate-nos
+            </h5>
+            <div>
+              <div class="img-box">
+                <img src="images/location.png" width="18px" alt="" />
+              </div>
+              <p>
+                R. da Paz, 797 - Chácara Santo Antônio, São Paulo - SP, 04713-000
+              </p>
+            </div>
+            <div>
+              <div class="img-box">
+                <img src="images/phone.png" width="18px" alt="" />
+              </div>
+              <p>
+                +55 11 98765-4321
+              </p>
+            </div>
+            <div>
+              <div class="img-box">
+                <img src="images/envelope.png" width="18px" alt="" />
+              </div>
+              <p>
+                unip@unip.com
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="info_info">
+            <h5>
+              Grupo
+            </h5>
+            <p>
+			 <li> Antonio Ricardo</li>
+             <li> Dayene Oliveira</li>
+			 <li> Hernane Almeida</li>
+			 <li> Wesley Ferreira</li>
+            </p>
+          </div>
+        </div> 
+
+        <div class="col-md-3">
+          <div class="info_links">
+            <h5>
+              Sistemas de Informação
+            </h5>
+            <ul>
+              <li>
+                <a>
+                  SI8P07
+                </a>
+              </li>
+			  <li>
+                <a>
+                  Prof. Arthur Mielli
+                </a>
+              </li>
+             
+            </ul>
+          </div>
+        </div>
+		<div class="col-md-3">
+          <div class="info_form ">
+            <h5>
+              Newsletter
+            </h5>
+            <form action="">
+              <input type="email" placeholder="Digite Seu E-mail" />
+              <button>
+                Receba Atualizações
+              </button>
+            </form>
+          </div>
+        </div>
+        </div>
+		</div>
+	    </div>
+  </section>
+
+  <!-- end info_section -->
+
+  <!-- footer section -->
+  <section class="container-fluid footer_section">
+    <p>
+      &copy; 2023 Todos os Direitos Reservados aos Desenvolvedores
+    </p>
+  </section>
+  <!-- footer section -->
+
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+  </script>
+  <!-- owl carousel script 
+    -->
+  <script type="text/javascript">
+    $(".owl-carousel").owlCarousel({
+      loop: true,
+      margin: 0,
+      navText: [],
+      center: true,
+      autoplay: true,
+      autoplayHoverPause: true,
+      responsive: {
+        0: {
+          items: 1
+        },
+        1000: {
+          items: 3
+        }
+      }
+    });
+  </script>
+  <!-- end owl carousel script -->
+</body>
+
+</html>
